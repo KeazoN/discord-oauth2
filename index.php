@@ -151,7 +151,7 @@ if(session('access_token')) {
                 transition: 250ms all;
             }
             .username a:hover{
-                opacity: darkred;
+                background-color: darkred;
                 color: #ddd;
                 box-shadow: 15px 0px 40px rgba(0, 0, 0, 0.3);
             }
