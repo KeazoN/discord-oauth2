@@ -1,7 +1,7 @@
 <?php
 
-define('OAUTH2_CLIENT_ID', '516267795361562652');//CLIENT ID
-define('OAUTH2_CLIENT_SECRET', 'fnvuTkj4rG-zIawwWdoZmxlrshaLsxQM');//CLIENT SECRET
+define('OAUTH2_CLIENT_ID', '');//CLIENT ID
+define('OAUTH2_CLIENT_SECRET', '');//CLIENT SECRET
 
 
 define('AUTH_URL', 'https://discord.com/api/oauth2/authorize');
